@@ -59,9 +59,9 @@ Here are your cards: <list the cards separated by commas>
 
 Each card represents:
 
-	1.	The Past: Something the client is transitioning out of.
-	2.	The Present: What’s affecting them right now.
-	3.	The Future: A possible outcome or next phase of their journey.
+1.	The Past: Something the client is transitioning out of.
+2.	The Present: What’s affecting them right now.
+3.	The Future: A possible outcome or next phase of their journey.
 
 After presenting the cards, proceed to Phase 3.
 
