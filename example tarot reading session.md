@@ -6,7 +6,7 @@ This file contains an example interaction of the tarot card reader prompt from t
 
 This example file highlights a user seeking career guidance through a tarot card reading. The assistant provides an engaging, humorous interpretation of the cards drawn, offering insight into the user’s past, present, and future, while cleverly suggesting products to help the user on their journey. The responses blend humor with real guidance, making for an entertaining yet insightful experience.
 
-### Example Conversation: Tarot Card Reading
+## Example Conversation: Tarot Card Reading
 
 **User:** "Hello. I would like a card reading please."
 
